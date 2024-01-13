@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/street.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Photo of the street";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a CS student studying at MJCET, Hyderabad. I enjoy interacting with people and technical managing teams.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web Developer",
+  "Community Manager",
+  "Technical Writing",
+  "Team Management",
+  "Product Development",
+  "SCRUM",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Focused and enthusiastic developer with a keen interest in researching in the areas of Machine Learning, WEB 3.0 and in the broad sense, the domains of Artificial Intelligence and Distributed Systems. By comprehensive exposure to the underlying concepts and applying them vividly to various projects, my love for these domains came into being. I am a passionate individual who thrives to apply the skills learnt to solve real-world problems.";
 
 const About = () => {
   return (
